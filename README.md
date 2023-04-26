@@ -1,2 +1,2 @@
-# DKRZ_GirlsDay23
-Lecture and Python exercises on fire monitoring with satellites: Girl's Day 2023@DKRZ
+# DKRZ_GirlsDay22
+DKRZ's contribution to the MPI-M Girl's Day 2022
