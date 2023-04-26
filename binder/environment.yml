@@ -11,3 +11,5 @@ dependencies:
   - cmasher
   - descartes
   - numpy
+  - plotly
+  - plotly_express
